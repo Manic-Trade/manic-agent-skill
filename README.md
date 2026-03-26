@@ -5,6 +5,8 @@ AI agent skill for trading event contracts on [Manic](https://manic.trade), depl
 ## Install
 
 ```bash
+npx skills add Manic-Trade/manic-agent-skill
+
 # Claude Code
 npx skills add Manic-Trade/manic-agent-skill --agent claude-code -y
 ```
