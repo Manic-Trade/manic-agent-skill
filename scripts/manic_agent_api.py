@@ -19,7 +19,7 @@ import urllib.error
 import urllib.parse
 
 
-API_URL = "https://bo-server-api-stg.manic.trade"
+API_URL = "https://bo-server-api-alpha.manic.trade"
 
 
 def get_config():

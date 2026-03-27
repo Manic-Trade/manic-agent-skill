@@ -10,7 +10,7 @@ metadata:
 
 # Manic Agent Skill
 
-Trade event contracts on [Manic](https://manic.trade), deployed on Solana. All trading operations are fully server-side — no client-side wallet signing required.
+Trade event contracts on [Manic](https://alpha-app.manic.trade/), deployed on Solana. All trading operations are fully server-side — no client-side wallet signing required.
 
 ## Environment Setup
 

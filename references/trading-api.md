@@ -3,7 +3,7 @@
 ## Base URL
 
 ```
-https://bo-server-api-stg.manic.trade
+https://bo-server-api-alpha.manic.trade
 ```
 
 ## Authentication

@@ -1,6 +1,6 @@
 # manic-agent-skill
 
-AI agent skill for trading event contracts on [Manic](https://manic.trade), deployed on Solana.
+AI agent skill for trading event contracts on [Manic](https://alpha-app.manic.trade/), deployed on Solana.
 
 ## Install
 
